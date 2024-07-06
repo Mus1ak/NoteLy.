@@ -75,7 +75,7 @@ const Container = styled.div`
   display: flex;
   align-items: center;
   .side-image{
-    background-image: url("./public/note-img.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/previews/022/154/101/original/person-taking-notes-in-notebook-and-drinking-coffee-man-or-woman-handwriting-in-notepad-enjoying-warm-drink-planning-or-making-list-illustration-vector.jpg");
     background-position: center;
     background-size: cover;
     height: 100%;
