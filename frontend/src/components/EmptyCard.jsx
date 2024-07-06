@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const EmptyCard = () => {
   return (
     <Container>
-        <img src="./src/assets/empty-note.png" alt="" />
+        <img src="./public/empty-note.png" alt="Empty Note Card" />
 
         <h3>Opps! It appears that you have yet to add any notes!</h3>
     </Container>
@@ -19,7 +19,7 @@ flex-direction: column;
 justify-content: center;
 h3{
     font-size: 1rem;
-    font-weight: 100;
+    font-weight: 400;
 }
     img{
         width: 200px;

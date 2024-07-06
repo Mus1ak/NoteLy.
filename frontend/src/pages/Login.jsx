@@ -75,7 +75,7 @@ const Container = styled.div`
   display: flex;
   align-items: center;
   .side-image{
-    background-image: url("./src/assets/note-img.jpg");
+    background-image: url("./public/note-img.jpg");
     background-position: center;
     background-size: cover;
     height: 100%;
