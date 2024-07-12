@@ -20,7 +20,7 @@ app.use(express.json());
 
 app.use(
     cors({
-        origin: "*",
+        origin: "https://note-1vyzu9dqr-mustaks-projects.vercel.app/",
     })
 );
 
