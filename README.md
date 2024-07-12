@@ -7,24 +7,8 @@ This project is a brief description of what your project is about. Provide a sho
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](https://ibb.co/dMXDXLF)
-Description of what this screenshot shows.
+<a href="https://ibb.co/dMXDXLF"><img src="https://i.ibb.co/c3RQRC0/Screenshot-2024-07-12-211729.png" alt="Screenshot-2024-07-12-211729" border="0" /></a>
 
-### Screenshot 2
-![Screenshot 2](https://ibb.co/gr0P2cF)
-Description of what this screenshot shows.
-
-### Screenshot 3
-![Screenshot 3](https://ibb.co/TRbxCfF)
-Description of what this screenshot shows.
-
-### Screenshot 4
-![Screenshot 4](https://ibb.co/L5ghQV5)
-Description of what this screenshot shows.
-
-### Screenshot 5
-![Screenshot 5](https://ibb.co/y8stZP0)
-Description of what this screenshot shows.
 
 ## Installation
 
